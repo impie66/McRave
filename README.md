@@ -41,6 +41,10 @@ McRave is a simple AI that can A move with all three races. It has a small but r
 ![dgdfgg](https://media.discordapp.net/attachments/489971177079701505/749969086448140388/lurkyboi.png)
 ![sdgfgdg](https://media.discordapp.net/attachments/489971177079701505/749969176164171836/ovies.png?width=506&height=616)
 ![fgfdgdfgdfg](https://media.discordapp.net/attachments/489971177079701505/749969274319273984/ffe.PNG)
+![fghfghdsg](https://media.discordapp.net/attachments/521167703101407233/742501989232934972/unknown.png)
+![ourBots](https://media.discordapp.net/attachments/489971177079701505/749972096784007269/unknown.png)
+![truth](https://media.discordapp.net/attachments/410148271546171396/566307423602737173/unknown.png)
+![aittRIP](https://media.discordapp.net/attachments/489971177079701505/749971176029159485/aittcancelled.png)
 
 <br />
 
