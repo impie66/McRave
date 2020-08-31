@@ -40,7 +40,9 @@ McRave is a simple AI that can A move with all three races. It has a small but r
 ![yes1212](https://i.imgur.com/5mWj4lN.png)
 ![dgdfgg](https://media.discordapp.net/attachments/489971177079701505/749969086448140388/lurkyboi.png)
 ![sdgfgdg](https://media.discordapp.net/attachments/489971177079701505/749969176164171836/ovies.png?width=506&height=616)
-![fgfdgdfgdfsgdg](https://media.discordapp.net/attachments/489971177079701505/749969274319273984/ffe.PNG)
+![fgfdgdfgdfg](https://media.discordapp.net/attachments/489971177079701505/749969274319273984/ffe.PNG)
+
+<br />
 
 **Thanks to:**
 - Nathan Roth (Antiga/Iruian) for providing expert analysis of replays and being a strategic advisor.
