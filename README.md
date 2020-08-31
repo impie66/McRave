@@ -38,6 +38,9 @@ McRave is a simple AI that can A move with all three races. It has a small but r
 ![yes8](https://i.imgur.com/Bx4ZdwF.png)
 ![yes9](https://i.imgur.com/cat7BmJ.png)
 ![yes1212](https://i.imgur.com/5mWj4lN.png)
+![dgdfgg](https://media.discordapp.net/attachments/489971177079701505/749969086448140388/lurkyboi.png)
+![sdgfgdg](https://media.discordapp.net/attachments/489971177079701505/749969176164171836/ovies.png?width=506&height=616)
+![fgfdgdfgdfsgdg](https://media.discordapp.net/attachments/489971177079701505/749969274319273984/ffe.PNG)
 https://imgur.com/a/xYAaLXj
 
 
@@ -53,5 +56,6 @@ For any questions, email christianmccrave@gmail.com , McRave was started January
 https://sites.google.com/view/mcrave/
 
 ![yes2](https://i.imgur.com/yku0aMV.png)
+1[yessomething](https://i.imgur.com/RCoAfNH.png)
 
 <b>Serious note: I only forked this to mess around with the readme.</b>
